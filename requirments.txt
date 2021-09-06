@@ -1,0 +1,12 @@
+
+(0)   Python3
+
+(1)   FastAPI
+
+(2)   Uvicorn
+
+(3)   Binance API
+
+(4)   mongodb
+
+(5)   Pymongo
